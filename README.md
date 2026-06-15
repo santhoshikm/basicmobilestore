@@ -6,10 +6,6 @@ Basic Mobile Store is a responsive e-commerce front-end website developed using 
 
 The website is designed with a clean interface, responsive layouts, and intuitive navigation to deliver a seamless browsing experience across desktop, tablet, and mobile devices.
 
-## Live Demo
-
-Website: [https://basicmobilestore.vercel.app/](https://basicmobilestore.vercel.app/)
-
 ## Features
 
 * Responsive design for all screen sizes
